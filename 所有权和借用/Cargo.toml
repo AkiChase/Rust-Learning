@@ -1,5 +1,5 @@
 [package]
-name = "gussing_game"
+name = "所有权和借用"
 version = "0.1.0"
 edition = "2021"
 
